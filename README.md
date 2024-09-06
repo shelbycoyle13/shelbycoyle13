@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shelbycoyle13
-- 👀 I’m interested in ...becoming a front end developer
-- 🌱 I’m currently learning ...JS
+- 👀 I’m interested in ...becoming a developer
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...websites, for now
 - 📫 How to reach me ...email me at shelbycoyle13@gmail.com
 
